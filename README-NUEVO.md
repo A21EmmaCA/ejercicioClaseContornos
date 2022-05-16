@@ -12,16 +12,7 @@
 
 [Mi pagina de GitHub](https://github.com/A-G-Marcos)
 
->**Código Java**
-```java
-class HelloWorld
-{
-    public static void main(String args[])
-    {
-        System.out.println("Hola Mundo");
-    }
-}
-```
+
 
 >**Código html**
 ```html
@@ -29,14 +20,24 @@ class HelloWorld
 <html>
 <body>
 
-<h1>Title</h1>
+<h1>Hola</h1>
 
-<p>Paragraph</p>
+<p>Mundillo de contornos</p>
 
 </body>
 </html>
 ```
 
+>**Código Java**
+```java
+class Matematicas
+{
+    public static void main(String args[])
+    {
+        System.out.println(2+2);
+    }
+}
+```
 1. **Versión 1.0**
    - Versión 1.5
    - Versión 1.7
