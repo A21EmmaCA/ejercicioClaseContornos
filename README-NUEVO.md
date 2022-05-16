@@ -1,6 +1,10 @@
 # ENCABEZADO H1
-*Texto en negrita*
-![Imagen de un portatil](https://www.nicepng.com/png/full/432-4324935_serv-icon-2-pc-icons-png-white.png)
+
+*Texto en cursiva*
+
+**Texto en negrita**
+
+![Foto de un pulphombre](https://www.juegosyjuguetesonline.es/22998-product_zoom/pulpo-reversible-20-cm-morado-verde.jpg)
 
 | Nombre| Primer apellido|
 | ----- | ---- |
