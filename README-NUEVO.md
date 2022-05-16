@@ -6,9 +6,9 @@
 
 ![Foto de un pulphombre](https://www.juegosyjuguetesonline.es/22998-product_zoom/pulpo-reversible-20-cm-morado-verde.jpg)
 
-| Nombre| Primer apellido|
-| ----- | ---- |
-| Marcos | Asensi |
+| Nombre| Primer apellido| Segundo apellido | Ciudad |
+| ----- | ----- | ----- | ----- |
+| Martín | Martínez | Martínez | Marín |
 
 [Mi pagina de GitHub](https://github.com/A-G-Marcos)
 
