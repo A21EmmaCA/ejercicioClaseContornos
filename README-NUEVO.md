@@ -10,7 +10,7 @@
 | ----- | ----- | ----- | ----- |
 | Martín | Martínez | Martínez | Marín |
 
-[Mi pagina de GitHub](https://github.com/A-G-Marcos)
+**[Mi pagina de GitHub](https://github.com/MartinSACLE)**
 
 
 
@@ -30,11 +30,11 @@
 
 >**Código Java**
 ```java
-class HelloWorld
+class Matematicas
 {
     public static void main(String args[])
     {
-        System.out.println("Hello world");
+        System.out.println(2+2);
     }
 }
 ```
