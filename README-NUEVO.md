@@ -12,6 +12,15 @@
 
 **[Mi pagina de GitHub](https://github.com/MartinSACLE)**
 
+1. **Bloque 1**
+   - Anidación 1
+   - Anidación 2
+   - Anidación 3
+   - Anidación 4
+2. **Bloque 2**
+   - *Anidación 1
+   - *Anidación 2
+   - *Anidación 3
 
 
 >**Código html**
@@ -24,6 +33,7 @@
 
 <p>Mundillo de contornos</p>
 
+<h3>dáselo papá<h3>
 </body>
 </html>
 ```
@@ -38,12 +48,7 @@ class Matematicas
     }
 }
 ```
-1. **Versión 1.0**
-   - Versión 1.5
-   - Versión 1.7
-2. **Versión 2.0**
-   - Versión 2.5 (en producción)
 
-@Marcos-A-G es mi página para SoftwareOne
 
-![Octocat gif](https://i.pinimg.com/originals/e0/db/86/e0db8690895407d039b94f75b6244035.gif)
+
+![HomeroBoi gif](https://educacion30.b-cdn.net/wp-content/uploads/2019/06/homer.gif)
